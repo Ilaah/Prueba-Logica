@@ -1,4 +1,4 @@
-# PruebaLogica
+# Prueba Lógica
 Prueba lógica de dos ejercicios que resolví mediante Javascript.
 No me quedó claro qué es lo que buscaba el segundo ejercicio, honestamente; pero hice mi mejor esfuerzo con lo que entendí.
 
